@@ -1,2 +1,5 @@
-# dazz-langchain
-Tutoriales - scripting en langchain 
+# Scripting en Langchain
+Iré dejando en este repositorio algunos scripts de utilidad. 
+
+##Carpetas 
+1. Pinecone: Interacción con pinecone, uso en video: 
